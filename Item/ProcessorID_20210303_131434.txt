@@ -1,0 +1,41 @@
+Intel® Processor Identification Utility
+Version : 6.5.115.0105
+TimeStamp : 2021/03/03 01:14:32
+Operating System : Microsoft Windows NT 10.0.19042.0
+Number of processors in system: 1
+Current processor: 1
+Active cores per processor: 4
+Disabled cores per processor: 0
+Processor Name: Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz
+Type : 0
+Family : 6
+Model : 3C
+Stepping : 3
+Revision: 27
+Maximum CPUID Level: 13
+L1 Instruction Cache: 4 x 32 KB
+L1 Data Cache: 4 x 32 KB
+L2 Cache: 4 x 256 KB
+L3 Cache: 6 MB
+Packaging: LGA1150
+Enhanced Intel SpeedStep® Technology: Yes
+MMX(TM): Yes
+Intel® SSE: Yes
+Intel® SSE2: Yes
+Intel® SSE3: Yes
+Intel® SSE4: Yes
+Intel® AES-NI: Yes
+Intel® AVX: Yes
+Enhanced Halt State: Yes
+Execute Disable Bit: Yes
+Intel® Hyper-Threading Technology: No
+Intel® 64 Architecture: Yes
+Intel® virtualization technology: Yes
+Intel® vt-x with extended page tables: Yes
+System Graphics: Add-in Graphics
+Base TDP: 84
+Expected Processor Frequency: 3.20 GHz
+Reported Processor Frequency: 3.26 GHz
+Expected System Bus Frequency: 100 MHz
+Reported System Bus Frequency: 100 MHz
+*************************************************************
